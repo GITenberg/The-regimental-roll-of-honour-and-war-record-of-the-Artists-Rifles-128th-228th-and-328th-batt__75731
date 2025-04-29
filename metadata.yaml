@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '58118'
     url: http://www.gutenberg.org/2009/agents/58118
     wikipedia: https://en.wikipedia.org/wiki/Henry_Allan_Roughton_May
+covers:
+- cover_type: archival
+  image_path: 75731-h/images/cover.jpg
 creator:
   author:
     agent_name: Higham, S. Stagoll (Samuel Stagoll)
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '58121'
     url: http://www.gutenberg.org/2009/agents/58121
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75731#The-regimental-roll-of-honour-and-war-record-of-the-Artists-Rifles-128th-228th-and-328th-batt_
 gutenberg_issued: '2025-03-27'
 gutenberg_type: Text
 identifiers:
